@@ -10,4 +10,5 @@ scikit-learn对于线性回归提供了比较多的类库,这些类库都可以�
 线性回归算法.scikit-learn中的线性回归算法库可以从这三点找出各自的不同点.理解了这些不同
 点,对不同的算法使用场景也就好理解了.
 ## 1、LinearReression
+
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$

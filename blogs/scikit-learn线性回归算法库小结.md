@@ -12,6 +12,4 @@ scikit-learn对于线性回归提供了比较多的类库,这些类库都可以�
 点,对不同的算法使用场景也就好理解了.
 ## 1、LinearReression
 
-$$
-x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
-$$
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= J(\Theta)=\frac{1}{2}(X\Theta-Y)^{T}(X\Theta-Y)" style="border:none;">
